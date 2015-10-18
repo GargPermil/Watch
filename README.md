@@ -7,3 +7,5 @@ A .net COM watch
 
 -A analog progress watch
 
+#Required
+.Net Framework 4.0
